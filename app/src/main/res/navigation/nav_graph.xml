@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/nav_graph.xml" app:startDestination="@id/coinListingFragment">
+
+    <fragment android:id="@+id/coinListingFragment"
+              android:name="com.onurkarteper.coinapp.ui.coinlisting.CoinListingFragment"
+              android:label="@string/title_main">
+        <action android:id="@+id/action_coinListingFragment_to_coinDetailFragment"
+                app:destination="@id/coinDetailFragment" app:enterAnim="@anim/fade_in" app:exitAnim="@anim/fade_out"
+                app:popEnterAnim="@anim/fade_in" app:popExitAnim="@anim/fade_out"/>
+    </fragment>
+    <fragment android:id="@+id/coinDetailFragment"
+              android:name="com.onurkarteper.coinapp.ui.coindetail.CoinDetailFragment"
+              android:label="@string/title_detail">
+        <argument android:name="coin" app:argType="com.onurkarteper.coinapp.vo.Coin"/>
+    </fragment>
+</navigation>

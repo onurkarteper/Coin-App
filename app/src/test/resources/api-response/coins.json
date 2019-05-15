@@ -1,0 +1,1023 @@
+{
+    "status": {
+        "timestamp": "2019-05-14T20:24:01.342Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 8,
+        "credit_count": 1
+    },
+    "data": [
+        {
+            "id": 1,
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "slug": "bitcoin",
+            "is_active": 1,
+            "first_historical_data": "2013-04-28T18:47:21.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 2,
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "slug": "litecoin",
+            "is_active": 1,
+            "first_historical_data": "2013-04-28T18:47:22.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 3,
+            "name": "Namecoin",
+            "symbol": "NMC",
+            "slug": "namecoin",
+            "is_active": 1,
+            "first_historical_data": "2013-04-28T18:47:22.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 4,
+            "name": "Terracoin",
+            "symbol": "TRC",
+            "slug": "terracoin",
+            "is_active": 1,
+            "first_historical_data": "2013-04-28T18:47:22.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 5,
+            "name": "Peercoin",
+            "symbol": "PPC",
+            "slug": "peercoin",
+            "is_active": 1,
+            "first_historical_data": "2013-04-28T18:47:23.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 6,
+            "name": "Novacoin",
+            "symbol": "NVC",
+            "slug": "novacoin",
+            "is_active": 1,
+            "first_historical_data": "2013-04-28T18:47:23.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 8,
+            "name": "Feathercoin",
+            "symbol": "FTC",
+            "slug": "feathercoin",
+            "is_active": 1,
+            "first_historical_data": "2013-05-03T03:25:15.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 9,
+            "name": "Mincoin",
+            "symbol": "MNC",
+            "slug": "mincoin",
+            "is_active": 1,
+            "first_historical_data": "2013-05-03T03:25:15.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 10,
+            "name": "Freicoin",
+            "symbol": "FRC",
+            "slug": "freicoin",
+            "is_active": 1,
+            "first_historical_data": "2013-05-03T03:25:15.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 13,
+            "name": "Ixcoin",
+            "symbol": "IXC",
+            "slug": "ixcoin",
+            "is_active": 1,
+            "first_historical_data": "2013-05-08T05:20:18.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 14,
+            "name": "BitBar",
+            "symbol": "BTB",
+            "slug": "bitbar",
+            "is_active": 1,
+            "first_historical_data": "2013-05-09T16:10:18.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 16,
+            "name": "WorldCoin",
+            "symbol": "WDC",
+            "slug": "worldcoin",
+            "is_active": 1,
+            "first_historical_data": "2013-05-22T03:20:20.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 18,
+            "name": "Digitalcoin",
+            "symbol": "DGC",
+            "slug": "digitalcoin",
+            "is_active": 1,
+            "first_historical_data": "2013-06-09T17:55:21.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 25,
+            "name": "GoldCoin",
+            "symbol": "GLC",
+            "slug": "goldcoin",
+            "is_active": 1,
+            "first_historical_data": "2013-06-14T06:45:28.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 31,
+            "name": "Argentum",
+            "symbol": "ARG",
+            "slug": "argentum",
+            "is_active": 1,
+            "first_historical_data": "2013-07-04T05:15:41.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 37,
+            "name": "Megacoin",
+            "symbol": "MEC",
+            "slug": "megacoin",
+            "is_active": 1,
+            "first_historical_data": "2013-07-07T13:56:51.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 41,
+            "name": "Infinitecoin",
+            "symbol": "IFC",
+            "slug": "infinitecoin",
+            "is_active": 1,
+            "first_historical_data": "2013-07-10T13:27:02.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 42,
+            "name": "Primecoin",
+            "symbol": "XPM",
+            "slug": "primecoin",
+            "is_active": 1,
+            "first_historical_data": "2013-07-11T03:21:19.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 43,
+            "name": "Anoncoin",
+            "symbol": "ANC",
+            "slug": "anoncoin",
+            "is_active": 1,
+            "first_historical_data": "2013-07-15T01:31:35.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 45,
+            "name": "CasinoCoin",
+            "symbol": "CSC",
+            "slug": "casinocoin",
+            "is_active": 1,
+            "first_historical_data": "2013-07-25T03:06:28.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 50,
+            "name": "Emerald Crypto",
+            "symbol": "EMD",
+            "slug": "emerald",
+            "is_active": 1,
+            "first_historical_data": "2013-08-04T18:51:31.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 52,
+            "name": "XRP",
+            "symbol": "XRP",
+            "slug": "ripple",
+            "is_active": 1,
+            "first_historical_data": "2013-08-04T18:51:05.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 53,
+            "name": "Quark",
+            "symbol": "QRK",
+            "slug": "quark",
+            "is_active": 1,
+            "first_historical_data": "2013-08-25T17:46:22.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 56,
+            "name": "Zetacoin",
+            "symbol": "ZET",
+            "slug": "zetacoin",
+            "is_active": 1,
+            "first_historical_data": "2013-09-11T01:47:21.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 57,
+            "name": "SecureCoin",
+            "symbol": "SRC",
+            "slug": "securecoin",
+            "is_active": 1,
+            "first_historical_data": "2013-09-28T16:09:37.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 58,
+            "name": "Sexcoin",
+            "symbol": "SXC",
+            "slug": "sexcoin",
+            "is_active": 1,
+            "first_historical_data": "2013-12-09T01:17:12.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 61,
+            "name": "TagCoin",
+            "symbol": "TAG",
+            "slug": "tagcoin",
+            "is_active": 1,
+            "first_historical_data": "2013-11-05T13:32:08.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 64,
+            "name": "FLO",
+            "symbol": "FLO",
+            "slug": "flo",
+            "is_active": 1,
+            "first_historical_data": "2013-11-27T06:01:46.000Z",
+            "last_historical_data": "2019-05-14T20:19:00.000Z",
+            "platform": null
+        },
+        {
+            "id": 66,
+            "name": "Nxt",
+            "symbol": "NXT",
+            "slug": "nxt",
+            "is_active": 1,
+            "first_historical_data": "2013-12-04T05:46:40.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 67,
+            "name": "Unobtanium",
+            "symbol": "UNO",
+            "slug": "unobtanium",
+            "is_active": 1,
+            "first_historical_data": "2013-12-21T18:17:35.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 69,
+            "name": "Datacoin",
+            "symbol": "DTC",
+            "slug": "datacoin",
+            "is_active": 1,
+            "first_historical_data": "2013-12-07T19:47:06.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 70,
+            "name": "BetaCoin",
+            "symbol": "BET",
+            "slug": "betacoin",
+            "is_active": 1,
+            "first_historical_data": "2013-12-15T01:52:14.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 72,
+            "name": "Deutsche eMark",
+            "symbol": "DEM",
+            "slug": "deutsche-emark",
+            "is_active": 1,
+            "first_historical_data": "2013-12-15T01:52:15.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 74,
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "slug": "dogecoin",
+            "is_active": 1,
+            "first_historical_data": "2013-12-15T14:42:34.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 77,
+            "name": "Diamond",
+            "symbol": "DMD",
+            "slug": "diamond",
+            "is_active": 1,
+            "first_historical_data": "2013-12-19T12:31:59.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 80,
+            "name": "Orbitcoin",
+            "symbol": "ORB",
+            "slug": "orbitcoin",
+            "is_active": 1,
+            "first_historical_data": "2013-12-21T18:12:54.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 83,
+            "name": "Omni",
+            "symbol": "OMNI",
+            "slug": "omni",
+            "is_active": 1,
+            "first_historical_data": "2013-12-24T23:37:41.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 87,
+            "name": "FedoraCoin",
+            "symbol": "TIPS",
+            "slug": "fedoracoin",
+            "is_active": 1,
+            "first_historical_data": "2013-12-31T16:17:26.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 89,
+            "name": "Mooncoin",
+            "symbol": "MOON",
+            "slug": "mooncoin",
+            "is_active": 1,
+            "first_historical_data": "2014-01-06T06:47:31.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 90,
+            "name": "Dimecoin",
+            "symbol": "DIME",
+            "slug": "dimecoin",
+            "is_active": 1,
+            "first_historical_data": "2014-01-06T07:42:29.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 93,
+            "name": "42-coin",
+            "symbol": "42",
+            "slug": "42-coin",
+            "is_active": 1,
+            "first_historical_data": "2014-01-14T04:32:01.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 99,
+            "name": "Vertcoin",
+            "symbol": "VTC",
+            "slug": "vertcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-01-20T05:27:57.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 109,
+            "name": "DigiByte",
+            "symbol": "DGB",
+            "slug": "digibyte",
+            "is_active": 1,
+            "first_historical_data": "2014-02-06T13:13:38.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 113,
+            "name": "SmartCoin",
+            "symbol": "SMC",
+            "slug": "smartcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-06T13:13:41.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 118,
+            "name": "ReddCoin",
+            "symbol": "RDD",
+            "slug": "reddcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-10T00:58:17.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 120,
+            "name": "Nyancoin",
+            "symbol": "NYAN",
+            "slug": "nyancoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-10T00:58:19.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 121,
+            "name": "UltraCoin",
+            "symbol": "UTC",
+            "slug": "ultracoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-10T00:58:20.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 122,
+            "name": "PotCoin",
+            "symbol": "POT",
+            "slug": "potcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-10T04:23:33.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 125,
+            "name": "Blakecoin",
+            "symbol": "BLC",
+            "slug": "blakecoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-12T06:50:14.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 128,
+            "name": "Maxcoin",
+            "symbol": "MAX",
+            "slug": "maxcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-12T13:33:59.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 130,
+            "name": "HunterCoin",
+            "symbol": "HUC",
+            "slug": "huntercoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-14T13:44:09.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 131,
+            "name": "Dash",
+            "symbol": "DASH",
+            "slug": "dash",
+            "is_active": 1,
+            "first_historical_data": "2014-02-14T13:44:09.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 132,
+            "name": "Counterparty",
+            "symbol": "XCP",
+            "slug": "counterparty",
+            "is_active": 1,
+            "first_historical_data": "2014-02-15T13:59:36.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 141,
+            "name": "MintCoin",
+            "symbol": "MINT",
+            "slug": "mintcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-19T13:39:53.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 145,
+            "name": "DopeCoin",
+            "symbol": "DOPE",
+            "slug": "dopecoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-22T17:52:34.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 148,
+            "name": "Auroracoin",
+            "symbol": "AUR",
+            "slug": "auroracoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-27T05:33:27.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 151,
+            "name": "Pesetacoin",
+            "symbol": "PTC",
+            "slug": "pesetacoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-22T17:52:40.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 159,
+            "name": "Cashcoin",
+            "symbol": "CASH",
+            "slug": "cashcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-27T05:33:32.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 161,
+            "name": "Pandacoin",
+            "symbol": "PND",
+            "slug": "pandacoin-pnd",
+            "is_active": 1,
+            "first_historical_data": "2014-02-27T05:33:33.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 168,
+            "name": "Uniform Fiscal Object",
+            "symbol": "UFO",
+            "slug": "uniform-fiscal-object",
+            "is_active": 1,
+            "first_historical_data": "2014-02-27T05:33:35.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 170,
+            "name": "BlackCoin",
+            "symbol": "BLK",
+            "slug": "blackcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-02-28T05:13:44.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 175,
+            "name": "Photon",
+            "symbol": "PHO",
+            "slug": "photon",
+            "is_active": 1,
+            "first_historical_data": "2014-05-23T11:20:40.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 181,
+            "name": "Zeitcoin",
+            "symbol": "ZEIT",
+            "slug": "zeitcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-03-20T05:09:19.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 182,
+            "name": "Myriad",
+            "symbol": "XMY",
+            "slug": "myriad",
+            "is_active": 1,
+            "first_historical_data": "2014-03-08T15:56:28.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 184,
+            "name": "DNotes",
+            "symbol": "NOTE",
+            "slug": "dnotes",
+            "is_active": 1,
+            "first_historical_data": "2014-03-08T15:56:28.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 199,
+            "name": "Skeincoin",
+            "symbol": "SKC",
+            "slug": "skeincoin",
+            "is_active": 1,
+            "first_historical_data": "2014-03-15T23:03:55.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 201,
+            "name": "Einsteinium",
+            "symbol": "EMC2",
+            "slug": "einsteinium",
+            "is_active": 1,
+            "first_historical_data": "2014-04-09T04:10:24.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 205,
+            "name": "Bitcoin Scrypt",
+            "symbol": "BTCS",
+            "slug": "bitcoin-scrypt",
+            "is_active": 1,
+            "first_historical_data": "2014-03-17T05:14:42.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 212,
+            "name": "ECC",
+            "symbol": "ECC",
+            "slug": "eccoin",
+            "is_active": 1,
+            "first_historical_data": "2014-03-20T05:09:55.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 213,
+            "name": "MonaCoin",
+            "symbol": "MONA",
+            "slug": "monacoin",
+            "is_active": 1,
+            "first_historical_data": "2014-03-20T05:09:55.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 215,
+            "name": "Rubycoin",
+            "symbol": "RBY",
+            "slug": "rubycoin",
+            "is_active": 1,
+            "first_historical_data": "2014-03-20T05:09:56.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 217,
+            "name": "Bela",
+            "symbol": "BELA",
+            "slug": "belacoin",
+            "is_active": 1,
+            "first_historical_data": "2014-03-20T05:10:07.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": {
+                "id": 1027,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum",
+                "token_address": "0x2e98a6804e4b6c832ed0ca876a943abd3400b224"
+            }
+        },
+        {
+            "id": 224,
+            "name": "FairCoin",
+            "symbol": "FAIR",
+            "slug": "faircoin",
+            "is_active": 1,
+            "first_historical_data": "2014-03-22T14:59:12.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 233,
+            "name": "SolarCoin",
+            "symbol": "SLR",
+            "slug": "solarcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-03-29T15:35:11.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 234,
+            "name": "e-Gulden",
+            "symbol": "EFL",
+            "slug": "e-gulden",
+            "is_active": 1,
+            "first_historical_data": "2014-03-26T12:44:50.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 254,
+            "name": "Gulden",
+            "symbol": "NLG",
+            "slug": "gulden",
+            "is_active": 1,
+            "first_historical_data": "2014-04-08T04:11:00.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 258,
+            "name": "Groestlcoin",
+            "symbol": "GRS",
+            "slug": "groestlcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-04-11T20:45:53.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 260,
+            "name": "PetroDollar",
+            "symbol": "XPD",
+            "slug": "petrodollar",
+            "is_active": 1,
+            "first_historical_data": "2014-04-15T04:36:55.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 263,
+            "name": "PLNcoin",
+            "symbol": "PLNC",
+            "slug": "plncoin",
+            "is_active": 1,
+            "first_historical_data": "2014-04-15T04:36:58.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 268,
+            "name": "WhiteCoin",
+            "symbol": "XWC",
+            "slug": "whitecoin",
+            "is_active": 1,
+            "first_historical_data": "2014-04-18T12:12:07.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 275,
+            "name": "PopularCoin",
+            "symbol": "POP",
+            "slug": "popularcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-04-23T12:01:13.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 276,
+            "name": "Bitstar",
+            "symbol": "BITS",
+            "slug": "bitstar",
+            "is_active": 1,
+            "first_historical_data": "2014-04-23T12:01:13.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 278,
+            "name": "Quebecoin",
+            "symbol": "QBC",
+            "slug": "quebecoin",
+            "is_active": 1,
+            "first_historical_data": "2014-04-23T12:01:15.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 290,
+            "name": "BlueCoin",
+            "symbol": "BLU",
+            "slug": "bluecoin",
+            "is_active": 1,
+            "first_historical_data": "2014-04-28T03:21:26.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 291,
+            "name": "MaidSafeCoin",
+            "symbol": "MAID",
+            "slug": "maidsafecoin",
+            "is_active": 1,
+            "first_historical_data": "2014-04-28T03:21:26.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": {
+                "id": 83,
+                "name": "Omni",
+                "symbol": "OMNI",
+                "slug": "omni",
+                "token_address": "3"
+            }
+        },
+        {
+            "id": 293,
+            "name": "Bitcoin Plus",
+            "symbol": "XBC",
+            "slug": "bitcoin-plus",
+            "is_active": 1,
+            "first_historical_data": "2014-05-04T01:31:45.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 295,
+            "name": "BTCtalkcoin",
+            "symbol": "TALK",
+            "slug": "btctalkcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-02T17:53:21.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 298,
+            "name": "NewYorkCoin",
+            "symbol": "NYC",
+            "slug": "newyorkcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-06T12:17:49.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 313,
+            "name": "PinkCoin",
+            "symbol": "PINK",
+            "slug": "pinkcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-11T17:08:10.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 316,
+            "name": "Dreamcoin",
+            "symbol": "DRM",
+            "slug": "dreamcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-13T04:03:16.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 322,
+            "name": "Energycoin",
+            "symbol": "ENRG",
+            "slug": "energycoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-15T12:42:25.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 323,
+            "name": "VeriCoin",
+            "symbol": "VRC",
+            "slug": "vericoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-16T12:13:34.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 328,
+            "name": "Monero",
+            "symbol": "XMR",
+            "slug": "monero",
+            "is_active": 1,
+            "first_historical_data": "2014-05-21T01:41:13.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 331,
+            "name": "Litecoin Plus",
+            "symbol": "LCP",
+            "slug": "litecoin-plus",
+            "is_active": 1,
+            "first_historical_data": "2014-05-21T03:17:29.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 333,
+            "name": "Curecoin",
+            "symbol": "CURE",
+            "slug": "curecoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-26T18:12:11.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 341,
+            "name": "SuperCoin",
+            "symbol": "SUPER",
+            "slug": "supercoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-26T16:31:29.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 350,
+            "name": "BoostCoin",
+            "symbol": "BOST",
+            "slug": "boostcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-05-30T04:07:30.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 360,
+            "name": "Motocoin",
+            "symbol": "MOTO",
+            "slug": "motocoin",
+            "is_active": 1,
+            "first_historical_data": "2014-06-03T12:47:54.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 362,
+            "name": "CloakCoin",
+            "symbol": "CLOAK",
+            "slug": "cloakcoin",
+            "is_active": 1,
+            "first_historical_data": "2014-06-07T00:08:01.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        },
+        {
+            "id": 366,
+            "name": "BitSend",
+            "symbol": "BSD",
+            "slug": "bitsend",
+            "is_active": 1,
+            "first_historical_data": "2014-06-08T14:20:12.000Z",
+            "last_historical_data": "2019-05-14T20:19:01.000Z",
+            "platform": null
+        }
+    ]
+}

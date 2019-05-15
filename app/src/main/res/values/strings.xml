@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoinApp</string>
+    <string name="txt_action_dialog_confirm">Tamam</string>
+    <string name="title_main">Coin App</string>
+    <string name="title_detail">Coin Detail</string>
+    <string name="txt_default_error_message">Bir sorun oluştu lütfen tekrar deneyiniz.</string>
+</resources>

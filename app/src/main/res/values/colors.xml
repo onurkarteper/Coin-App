@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15171b</color>
+    <color name="colorPrimaryDark">#15171b</color>
+    <color name="colorAccent">#225DA2</color>
+    <color name="darker_grey">#dddddd</color>
+    <color name="app_background">#20273A</color>
+
+
+    <color name="mainBg1">#181a1d</color>
+    <color name="mainBg2">#1f2531</color>
+    <color name="mainBg3">#2a344b</color>
+
+    <color name="text_color_white">#ffffff</color>
+    <color name="fifty_percent_text_color_white">#80ffffff</color>
+    <color name="blue">#225DA2</color>
+</resources>
